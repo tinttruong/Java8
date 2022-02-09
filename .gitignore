@@ -1,4 +1,10 @@
-# Compiled class file
+target/
+.setting/
+.classpath
+.project
+
+# Compiled c
+lass file
 *.class
 
 # Log file
